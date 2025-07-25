@@ -7,3 +7,6 @@ https://drive.google.com/drive/folders/1SFxavOe00x40TV-LmQSK00CKW-kECfEw
 
 # MSI's Playlist
 https://youtube.com/playlist?list=PLr9he3UyIy3nisK-tpSQtl7GBBs7NvKwr&si=c0Neno8J-u0DE33d
+
+# (Repository, Client-Server, Microservices)
+https://youtu.be/IhzE-4xLfcM?si=fYeT7riv0rDNG4Ot
